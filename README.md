@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frhtdvm" alt="frhtdvm" /></a> </p>
 
-- 🔭 I’m currently working on **PowerShell and Python**
 
-- 🌱 I’m currently learning **Data Scientist, PowerShell, Automation**
+- 🌱 I’m currently learning **Full Stack Development, PowerShell and Game Creating**
 
-- 👯 I’m looking to collaborate on **PowerShell, Python Algorithm**
+- 👯 I’m looking to collaborate on **Front and Back End stuff, PowerShell, Algorithm and Data Structs**
 
-- 🤝 I’m looking for help with **PowerShell, Python Algorithm**
+- 🤝 I’m looking for help with **PowerShell, Algorithm and with remaining thing**
 
 - 💬 Ask me about **anything**
 
